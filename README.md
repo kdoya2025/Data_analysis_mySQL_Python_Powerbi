@@ -96,6 +96,7 @@ Date Standardization
 Converted inconsistent date strings into SQL DATE format using:
 
 STR_TO_DATE()
+
 Exploratory Data Analysis (Python)
 
 The cleaned dataset was analyzed using Python inside a Jupyter Notebook environment.
